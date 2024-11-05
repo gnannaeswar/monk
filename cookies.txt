@@ -1,0 +1,21 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.docs.google.com	TRUE	/forms/d/e/1FAIpQLSeoTvuRUsuBFv2tQ0w21ZDhjbCJrNvBOaFmt4Ju_ife2v7hMw	FALSE	1999999999	S	spreadsheet_forms=hLUcdTz602Sx3S5Zdj_2o3dc06aOsumdk3NgLvFl8-4
+.docs.google.com	TRUE	/forms/d/e/1FAIpQLSeoTvuRUsuBFv2tQ0w21ZDhjbCJrNvBOaFmt4Ju_ife2v7hMw	FALSE	1999999999	COMPASS	spreadsheet_forms=CjIACWuJV61orcPhEhfEwKK3xwF6DyIV6IN5pCwsgb8IXbT5th2Qe_-peZYqjGTgZKBjGxCWsqe5Bho0AAlriVda1IejFMvoTzJnD98SM68pKP_PIHrtXB5oiuaSbpzh_vJcx4WbowYyfeJEze36ow==
+.docs.google.com	TRUE	/forms/d/e/1FAIpQLScFeNsmCkErUqWdfIysaKLd8mW50DbQULBcL_9yDckY912D4g	FALSE	1999999999	S	spreadsheet_forms=VPwW_GFdVCMwik1g8jTQc5GqyZKJ6VzQEdXB7bbxwHI
+.docs.google.com	TRUE	/forms/d/e/1FAIpQLScFeNsmCkErUqWdfIysaKLd8mW50DbQULBcL_9yDckY912D4g	FALSE	1999999999	COMPASS	spreadsheet_forms=CjIACWuJV3PUFZmomYQs0FAZUIpGGrVM_7VbNoYEYyY53iBPG9xAVR3NmlrS334sBY5AhRCXsqe5Bho0AAlriVdj9oUaTPGH1-4gjx3gBEKPb0KcPhV_FaefvBWtiIqXRSYxEvlU8zPbBaqzhVZTVQ==
+tonesfashion.com	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22INTS%22%2C%22reg%22%3A%22%22%2C%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%2C%22consent_id%22%3A%22C08F2387-7e2a-4072-82f3-45bd2a47de1e%22%7D
+tonesfashion.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+www.tonesfashion.com	TRUE	/	FALSE	1999999999	_shopify_country	India
+.instagram.com	TRUE	/	FALSE	1999999999	csrftoken	CZFXxICagU5oPJhnDKdw81
+.google.com	TRUE	/	FALSE	1999999999	NID	518=HO8TgpSLQ9aW0ULotlp-X31sWZWAsZk4-YiEnuMX6lNPKqEhE44VO5flnuTfToG6sG9az9F_8OBOjeRdS7ZeXhbDanOlUp9yGRUwYWCYTJAgpcgZfE4Be4O2XUfWIuzXM6GtlGxjPN8-1N2ZL23XrrJpov2Dcrd-lWOcsfQ2Y738i84Hjes
+productreviews.shopifycdn.com	TRUE	/	FALSE	1999999999	_product_reviews_session	3d3386f73951d621d20dae28c04855ce
+docs.google.com	TRUE	/	FALSE	1999999999	SameSite	none
+www.tonesfashion.com	TRUE	/	FALSE	1999999999	localization	IN
+www.tonesfashion.com	TRUE	/	FALSE	1999999999	keep_alive	dcc36af9-d0e3-411c-ad8a-398015ca9a80
+tonesfashion.com	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D
+tonesfashion.com	TRUE	/	FALSE	1999999999	_shopify_y	84a2c99b-9bc9-4abc-9ceb-9ed8df0c3e44
+www.tonesfashion.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+tonesfashion.com	TRUE	/	FALSE	1999999999	_shopify_s	5ce1f0bc-0085-438a-87a4-f123694590cc
+www.tonesfashion.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
